@@ -92,6 +92,7 @@ Smoothing applied
 - Scroll gesture
 - FPS counter
 - Config UI
+
 (Existed in demo 1)
 ---
 
