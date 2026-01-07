@@ -6,7 +6,7 @@ import math
 # Setup
 cam_w, cam_h = 640, 480 # Camera size
 frame_reduction = 100 # Limit the movement area 
-smoothening = 3 # smoothing factor (The reaction speed of the mouse)
+smoothening = 5 # smoothing factor (The reaction speed of the mouse)
 
 # Mediapipe
 mp_hands = mp.solutions.hands
