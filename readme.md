@@ -54,7 +54,7 @@ pip install opencv-python mediapipe pyautogui
 ## 🚀 Run
 
 ```bash
-python virtual_mouse.py
+python test_demo1.py
 ```
 
 ---
@@ -66,7 +66,9 @@ python virtual_mouse.py
 3. See **purple rectangle** = active area.
 4. Move **index finger** inside → cursor moves full screen.
 5. **Pinch thumb + index** → left click.
-6. Press **q** to quit.
+6. **Pinch thumb + middle** → right click.
+7. **Pinch index + middle** → scroll. (Move them up/down to scroll vertically)
+8. Press **q** to quit.
 
 ---
 
@@ -90,7 +92,7 @@ Smoothing applied
 - Scroll gesture
 - FPS counter
 - Config UI
-
+(Existed in demo 1)
 ---
 
 ## 👤 Author
